@@ -9,7 +9,7 @@ import ReactDOM, { render } from 'react-dom'
 import { browserHistory } from 'react-router'
 
 import Routes from './routes'
-import './resources/css/base.less'
+import './resources/css/index.less'
 
 const contentDiv = document.createElement("div")
 document.body.appendChild(contentDiv)
